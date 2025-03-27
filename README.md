@@ -111,5 +111,3 @@ M.S. in Data Science, Indiana University Bloomington
 📧 minjukim023@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/minjukim023/)  
 💻 [GitHub](https://github.com/MinjuKim023)
-
-s
